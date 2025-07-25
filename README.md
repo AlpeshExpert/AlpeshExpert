@@ -59,10 +59,11 @@ I believe in writing clean, efficient code and following principles like **SOLID
 ## 🏆 Featured Projects
 
 ### 🛒 [Multi-Store E-Commerce Platform]()
-> Laravel + jQuery + vue3 + MySQL + AWS + Stripe + Redis 
+> Laravel + jQuery + vue3 + MySQL + AWS + Stripe + Redis  
+✔️ Optimized performance (40% boost)  
 ✔️ Store panels (Store Admin, Checkout, Shipping, Products, Orders)  
-✔️ Front Store Design Editor 
-✔️ RESTful APIs for mobile apps
+✔️ Front Store Design Editor  
+✔️ RESTful APIs for mobile apps  
 
 ### 🏋️‍♂️ [Fitness Coaching App]()
 > Laravel + CodeIgniter + ReactJS + Redis + Stripe + Zapier  
@@ -71,10 +72,10 @@ I believe in writing clean, efficient code and following principles like **SOLID
 ✔️ Payment gateway & coupon system integration
 
 ### 🛒 [E-Commerce Platform]()
-> Laravel + jQuery + MySQL + AWS + RazorPay 
+> Laravel + jQuery + MySQL + AWS + RazorPay  
 ✔️ Role-based panels (Admin, Vendor, Delivery)  
 ✔️ API versioning & AWS migration  
-✔️ RESTful APIs for mobile apps
+✔️ RESTful APIs for mobile apps  
 
 ### 🎫 [Customer Support Ticket System]()
 > Laravel + VueJS + TailwindCSS + Swagger  
